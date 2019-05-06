@@ -1,0 +1,1 @@
+直接打开pycharm，选License server激活，输入：http://idea.imsxm.com
