@@ -13,6 +13,9 @@ resultPath = os.path.join(proDir,"result")
 
 class Log():
     def __init__(self):
+        '''
+        日志格式
+        '''
         global logpath,proDir,resultPath
         if not os.path.exists(resultPath):
             os.mkdir(resultPath)
@@ -28,6 +31,7 @@ class Log():
 
 class MyLog():
     log = None
+    # 线程锁定
     mutex = threading.Lock()
 
     def __init__(self):
@@ -35,8 +39,10 @@ class MyLog():
     @staticmethod
     def get_log():
         if MyLog.log is None:
+            # 获取锁
             MyLog.mutex.acquire()
             MyLog.log = Log()
+            # 释放锁
             MyLog.mutex.release()
         return MyLog.log
 
