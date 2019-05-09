@@ -3,9 +3,11 @@
 
 
 import logging
+import os
+import threading
 from datetime import datetime
-import readConfig as conf
-import threading,os
+
+from config import readConfig as conf
 
 proDir = conf.proDir
 

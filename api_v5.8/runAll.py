@@ -1,7 +1,6 @@
-import unittest
-import HTMLTestRunner
-from Common.Log import *
-import readConfig as conf
+#!/usr/bin/python
+# -*- coding:utf-8 -*-
 
-log = MyLog.get_log().logger
+from conf import *
+
 
