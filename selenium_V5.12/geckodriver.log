@@ -1,0 +1,22 @@
+1557817557955	geckodriver	INFO	Listening on 127.0.0.1:65031
+1557817558968	mozprofile::profile	INFO	Using profile path /var/folders/jh/fs42p5gd16j8863d308rz5rr0000gp/T/rust_mozprofile.iyf8lIJs3qBT
+1557817558974	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1557817558994	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65040
+1557817559533	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557817559533	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557817559533	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557817562095	Marionette	INFO	Listening on port 2828
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 327: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 327: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1557817579017	Marionette	INFO	Stopped listening on port 2828
+1557817585347	geckodriver	INFO	Listening on 127.0.0.1:65491
+1557817586376	mozprofile::profile	INFO	Using profile path /var/folders/jh/fs42p5gd16j8863d308rz5rr0000gp/T/rust_mozprofile.EbALR6GOGiJa
+1557817586379	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1557817586386	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65501
+1557817586985	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557817586986	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557817586987	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557817589468	Marionette	INFO	Listening on port 2828
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 327: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 327: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1557817807364	Marionette	INFO	Stopped listening on port 2828
