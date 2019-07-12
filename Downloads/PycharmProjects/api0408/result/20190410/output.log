@@ -1,0 +1,351 @@
+2019-04-10 20:42:53,771 - root - INFO - Post Http success
+2019-04-10 20:44:36,896 - root - INFO - Post Http success
+2019-04-10 20:45:25,397 - root - INFO - Post Http success
+2019-04-10 20:45:49,179 - root - INFO - Post Http success
+2019-04-10 20:46:22,258 - root - INFO - Post Http success
+2019-04-10 20:46:22,428 - root - INFO - Post Http success
+2019-04-10 20:49:04,971 - root - INFO - Post Http success
+2019-04-10 20:49:05,136 - root - INFO - Post Http success
+2019-04-10 20:49:05,136 - root - ERROR - 'OK' != 'jjj'
+- OK
++ jjj
+ : 请求失败
+2019-04-10 20:49:44,933 - root - INFO - ********TEST START********
+2019-04-10 20:49:44,935 - root - INFO - *********TEST END*********
+2019-04-10 20:51:50,689 - root - INFO - ********TEST START********
+2019-04-10 20:51:50,689 - root - INFO - *********TEST END*********
+2019-04-10 20:53:10,953 - root - INFO - ********TEST START********
+2019-04-10 20:53:11,720 - root - INFO - Post Http success
+2019-04-10 20:53:12,233 - root - INFO - Post Http success
+2019-04-10 20:53:12,234 - root - ERROR - 'OK' != 'jjj'
+- OK
++ jjj
+ : 请求失败
+2019-04-10 20:53:12,234 - root - INFO - *********TEST END*********
+2019-04-10 20:54:51,964 - root - INFO - ********TEST START********
+2019-04-10 20:54:51,965 - root - INFO - *********TEST END*********
+2019-04-10 20:55:09,759 - root - INFO - ********TEST START********
+2019-04-10 20:55:09,920 - root - INFO - Post Http success
+2019-04-10 20:55:10,041 - root - INFO - Post Http success
+2019-04-10 20:55:10,041 - root - ERROR - 'OK' != 'jjj'
+- OK
++ jjj
+ : 请求失败
+2019-04-10 20:55:10,041 - root - INFO - *********TEST END*********
+2019-04-10 20:55:55,783 - root - INFO - ********TEST START********
+2019-04-10 20:55:55,784 - root - INFO - *********TEST END*********
+2019-04-10 20:56:57,362 - root - INFO - ********TEST START********
+2019-04-10 20:56:57,364 - root - INFO - *********TEST END*********
+2019-04-10 20:57:22,240 - root - INFO - ********TEST START********
+2019-04-10 20:57:22,241 - root - INFO - *********TEST END*********
+2019-04-10 20:59:41,587 - root - INFO - ********TEST START********
+2019-04-10 20:59:41,588 - root - INFO - *********TEST END*********
+2019-04-10 20:59:53,504 - root - INFO - ********TEST START********
+2019-04-10 20:59:53,505 - root - INFO - *********TEST END*********
+2019-04-10 21:01:37,012 - root - INFO - ********TEST START********
+2019-04-10 21:01:37,015 - root - INFO - *********TEST END*********
+2019-04-10 21:02:36,831 - root - INFO - ********TEST START********
+2019-04-10 21:02:37,008 - root - INFO - Post Http success
+2019-04-10 21:02:37,155 - root - INFO - Post Http success
+2019-04-10 21:02:37,155 - root - ERROR - 'OK' != 'jjj'
+- OK
++ jjj
+ : 请求失败
+2019-04-10 21:02:37,156 - root - INFO - *********TEST END*********
+2019-04-10 21:03:37,645 - root - INFO - Post Http success
+2019-04-10 21:03:37,757 - root - INFO - Post Http success
+2019-04-10 21:03:37,759 - root - ERROR - 'OK' != 'jjj'
+- OK
++ jjj
+ : 请求失败
+2019-04-10 21:05:19,128 - root - INFO - Post Http success
+2019-04-10 21:05:20,014 - root - INFO - Post Http success
+2019-04-10 21:05:20,016 - root - ERROR - 'OK' != 'jjj'
+- OK
++ jjj
+ : 请求失败
+2019-04-10 21:06:24,191 - root - INFO - Post Http success
+2019-04-10 21:06:25,236 - root - ERROR - HTTPSConnectionPool(host='m.stock.pingan.com', port=443): Read timed out. (read timeout=1.0)
+2019-04-10 21:08:08,814 - root - INFO - ******* Excute %s Failed *******
+2019-04-10 21:08:08,816 - root - ERROR - HTTPSConnectionPool(host='m.stock.pingan.com', port=443): Max retries exceeded with url: /hq/restapi/queryBondRate (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x10cf3c128>, 'Connection to m.stock.pingan.com timed out. (connect timeout=1.0)'))
+2019-04-10 21:08:57,999 - root - INFO - Post Http success
+2019-04-10 21:08:58,000 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204091","name":"91天期","marketType":"SH","annualizedRate":2.905,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":91,"actualNumberOfDays":0,"marketCode":"SH204091"}}
+2019-04-10 21:08:58,000 - root - INFO - ******* Excute test01 Success *******
+2019-04-10 21:08:58,660 - root - INFO - Post Http success
+2019-04-10 21:08:58,661 - root - INFO - ******* Excute %s Failed *******
+2019-04-10 21:08:58,661 - root - ERROR - 'OK' != 'jjj'
+- OK
++ jjj
+ : 请求失败
+2019-04-10 21:09:51,647 - root - INFO - Post Http success
+2019-04-10 21:09:51,649 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204091","name":"91天期","marketType":"SH","annualizedRate":2.905,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":91,"actualNumberOfDays":0,"marketCode":"SH204091"}}
+2019-04-10 21:09:51,650 - root - INFO - ******* Excute test01 Success *******
+2019-04-10 21:09:51,753 - root - INFO - Post Http success
+2019-04-10 21:09:51,753 - root - INFO - ******* Excute test02 Failed *******
+2019-04-10 21:09:51,753 - root - ERROR - 'OK' != 'jjj'
+- OK
++ jjj
+ : 请求失败
+2019-04-10 21:10:26,195 - root - INFO - ******* Excute test01 Failed *******
+2019-04-10 21:10:26,197 - root - ERROR - HTTPSConnectionPool(host='m.stock.pingan.com', port=443): Max retries exceeded with url: /hq/restapi/queryBondRate (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x10ca27898>, 'Connection to m.stock.pingan.com timed out. (connect timeout=1.0)'))
+2019-04-10 21:11:14,237 - root - INFO - Post Http success
+2019-04-10 21:11:14,239 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204091","name":"91天期","marketType":"SH","annualizedRate":2.905,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":91,"actualNumberOfDays":0,"marketCode":"SH204091"}}
+2019-04-10 21:11:14,240 - root - INFO - ******* Excute test01 Success *******
+2019-04-10 21:11:14,784 - root - INFO - Post Http success
+2019-04-10 21:11:14,785 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204091","name":"91天期","marketType":"SH","annualizedRate":2.905,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":91,"actualNumberOfDays":0,"marketCode":"SH204091"}}
+2019-04-10 21:11:14,785 - root - INFO - ******* Excute test02 Success *******
+2019-04-10 21:12:44,700 - root - INFO - Post Http success
+2019-04-10 21:12:44,702 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204091","name":"91天期","marketType":"SH","annualizedRate":2.905,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":91,"actualNumberOfDays":0,"marketCode":"SH204091"}}
+2019-04-10 21:12:44,703 - root - INFO - ******* Excute test01 Success *******
+2019-04-10 21:12:45,563 - root - INFO - Post Http success
+2019-04-10 21:12:45,563 - root - INFO - ******* Excute test02 Failed *******
+2019-04-10 21:12:45,564 - root - ERROR - 'OK' != 'jjj'
+- OK
++ jjj
+
+2019-04-10 21:13:09,748 - root - INFO - Post Http success
+2019-04-10 21:13:09,748 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204091","name":"91天期","marketType":"SH","annualizedRate":2.905,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":91,"actualNumberOfDays":0,"marketCode":"SH204091"}}
+2019-04-10 21:13:09,748 - root - INFO - ******* Excute test01 Success *******
+2019-04-10 21:13:09,856 - root - INFO - Post Http success
+2019-04-10 21:13:09,856 - root - ERROR - 'OK' != 'jjj'
+- OK
++ jjj
+
+2019-04-10 21:14:07,953 - root - ERROR - HTTPSConnectionPool(host='m.stock.pingan.com', port=443): Max retries exceeded with url: /hq/restapi/queryBondRate (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x10d064128>, 'Connection to m.stock.pingan.com timed out. (connect timeout=1.0)'))
+2019-04-10 21:14:07,955 - root - ERROR - Failed
+2019-04-10 21:14:29,737 - root - INFO - Post Http success
+2019-04-10 21:14:29,739 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204091","name":"91天期","marketType":"SH","annualizedRate":2.905,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":91,"actualNumberOfDays":0,"marketCode":"SH204091"}}
+2019-04-10 21:14:29,740 - root - INFO - ******* Excute test01 Success *******
+2019-04-10 21:14:30,631 - root - INFO - Post Http success
+2019-04-10 21:14:30,631 - root - ERROR - 'OK' != 'jjj'
+- OK
++ jjj
+
+2019-04-10 21:14:30,632 - root - ERROR - Failed
+2019-04-10 21:14:50,753 - root - INFO - Post Http success
+2019-04-10 21:14:50,753 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204091","name":"91天期","marketType":"SH","annualizedRate":2.905,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":91,"actualNumberOfDays":0,"marketCode":"SH204091"}}
+2019-04-10 21:14:50,753 - root - INFO - ******* Excute test01 Success *******
+2019-04-10 21:14:51,304 - root - INFO - Post Http success
+2019-04-10 21:14:51,305 - root - ERROR - 'OK' != 'jjj'
+- OK
++ jjj
+
+2019-04-10 21:14:51,306 - root - ERROR - Failed
+2019-04-10 21:19:52,446 - root - INFO - Post Http success
+2019-04-10 21:19:52,447 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204091","name":"91天期","marketType":"SH","annualizedRate":2.905,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":91,"actualNumberOfDays":0,"marketCode":"SH204091"}}
+2019-04-10 21:19:52,447 - root - INFO - ******* Excute test01 Success *******
+2019-04-10 21:19:52,812 - root - INFO - Post Http success
+2019-04-10 21:19:52,813 - root - ERROR - 'OK' != 'jjj'
+- OK
++ jjj
+
+2019-04-10 21:19:52,813 - root - ERROR - Failed
+2019-04-10 21:21:30,757 - root - INFO - Post Http success
+2019-04-10 21:21:30,758 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204091","name":"91天期","marketType":"SH","annualizedRate":2.905,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":91,"actualNumberOfDays":0,"marketCode":"SH204091"}}
+2019-04-10 21:21:30,759 - root - INFO - ******* Excute test01 Success *******
+2019-04-10 21:21:30,877 - root - INFO - Post Http success
+2019-04-10 21:21:30,878 - root - ERROR - 'OK' != 'jjj'
+- OK
++ jjj
+
+2019-04-10 21:21:30,878 - root - ERROR - Failed
+2019-04-10 21:21:50,796 - root - INFO - Post Http success
+2019-04-10 21:21:50,797 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204091","name":"91天期","marketType":"SH","annualizedRate":2.905,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":91,"actualNumberOfDays":0,"marketCode":"SH204091"}}
+2019-04-10 21:21:50,797 - root - INFO - ******* Excute test01 Success *******
+2019-04-10 21:21:51,081 - root - INFO - Post Http success
+2019-04-10 21:21:51,082 - root - ERROR - 'OK' != 'jjj'
+- OK
++ jjj
+
+2019-04-10 21:21:51,082 - root - ERROR - Failed
+2019-04-10 21:22:23,430 - root - INFO - Post Http success
+2019-04-10 21:22:23,431 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204091","name":"91天期","marketType":"SH","annualizedRate":2.905,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":91,"actualNumberOfDays":0,"marketCode":"SH204091"}}
+2019-04-10 21:22:23,432 - root - INFO - ******* Excute test01 Success *******
+2019-04-10 21:22:24,440 - root - ERROR - HTTPSConnectionPool(host='m.stock.pingan.com', port=443): Max retries exceeded with url: /hq/restapi/queryBondRate (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x10cfce518>, 'Connection to m.stock.pingan.com timed out. (connect timeout=1.0)'))
+2019-04-10 21:22:24,440 - root - ERROR - Failed
+2019-04-10 21:22:57,101 - root - INFO - Post Http success
+2019-04-10 21:22:57,102 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204091","name":"91天期","marketType":"SH","annualizedRate":2.905,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":91,"actualNumberOfDays":0,"marketCode":"SH204091"}}
+2019-04-10 21:22:57,102 - root - INFO - ******* Excute test01 Success *******
+2019-04-10 21:22:57,240 - root - INFO - Post Http success
+2019-04-10 21:22:57,240 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204091","name":"91天期","marketType":"SH","annualizedRate":2.905,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":91,"actualNumberOfDays":0,"marketCode":"SH204091"}}
+2019-04-10 21:22:57,240 - root - INFO - ******* Excute test02 Success *******
+2019-04-10 21:22:57,425 - root - INFO - Post Http success
+2019-04-10 21:22:57,426 - root - ERROR - 'OK' != 'jjj'
+- OK
++ jjj
+
+2019-04-10 21:22:57,426 - root - ERROR - Failed
+2019-04-10 21:23:07,128 - root - ERROR - HTTPSConnectionPool(host='m.stock.pingan.com', port=443): Max retries exceeded with url: /hq/restapi/queryBondRate (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x10cf21518>, 'Connection to m.stock.pingan.com timed out. (connect timeout=1.0)'))
+2019-04-10 21:23:07,129 - root - ERROR - Failed
+2019-04-10 21:23:26,651 - root - INFO - Post Http success
+2019-04-10 21:23:26,651 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204091","name":"91天期","marketType":"SH","annualizedRate":2.905,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":91,"actualNumberOfDays":0,"marketCode":"SH204091"}}
+2019-04-10 21:23:26,651 - root - INFO - ******* Excute test01 Success *******
+2019-04-10 21:23:26,826 - root - INFO - Post Http success
+2019-04-10 21:23:26,826 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204091","name":"91天期","marketType":"SH","annualizedRate":2.905,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":91,"actualNumberOfDays":0,"marketCode":"SH204091"}}
+2019-04-10 21:23:26,827 - root - INFO - ******* Excute test02 Success *******
+2019-04-10 21:23:26,958 - root - INFO - Post Http success
+2019-04-10 21:23:26,959 - root - ERROR - 'OK' != 'jjj'
+- OK
++ jjj
+
+2019-04-10 21:23:26,959 - root - ERROR - Failed
+2019-04-10 21:24:33,668 - root - ERROR - HTTPSConnectionPool(host='m.stock.pingan.com', port=443): Max retries exceeded with url: /hq/restapi/queryBondRate (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x10cf1f278>, 'Connection to m.stock.pingan.com timed out. (connect timeout=1.0)'))
+2019-04-10 21:24:33,668 - root - ERROR - Failed
+2019-04-10 21:24:39,343 - root - ERROR - HTTPSConnectionPool(host='m.stock.pingan.com', port=443): Max retries exceeded with url: /hq/restapi/queryBondRate (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x10cf1f240>, 'Connection to m.stock.pingan.com timed out. (connect timeout=1.0)'))
+2019-04-10 21:24:39,344 - root - ERROR - Failed
+2019-04-10 21:24:46,814 - root - INFO - Post Http success
+2019-04-10 21:24:46,814 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204091","name":"91天期","marketType":"SH","annualizedRate":2.905,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":91,"actualNumberOfDays":0,"marketCode":"SH204091"}}
+2019-04-10 21:24:46,814 - root - INFO - ******* Excute test01 Success *******
+2019-04-10 21:24:47,620 - root - INFO - Post Http success
+2019-04-10 21:24:47,621 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204091","name":"91天期","marketType":"SH","annualizedRate":2.905,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":91,"actualNumberOfDays":0,"marketCode":"SH204091"}}
+2019-04-10 21:24:47,621 - root - INFO - ******* Excute test02 Success *******
+2019-04-10 21:24:48,495 - root - INFO - Post Http success
+2019-04-10 21:24:48,496 - root - ERROR - 'OK' != 'jjj'
+- OK
++ jjj
+
+2019-04-10 21:24:48,496 - root - ERROR - Failed
+2019-04-10 21:25:15,190 - root - INFO - Post Http success
+2019-04-10 21:25:15,191 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204091","name":"91天期","marketType":"SH","annualizedRate":2.905,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":91,"actualNumberOfDays":0,"marketCode":"SH204091"}}
+2019-04-10 21:25:15,191 - root - INFO - ******* Excute test01 Success *******
+2019-04-10 21:25:15,300 - root - INFO - Post Http success
+2019-04-10 21:25:15,300 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204091","name":"91天期","marketType":"SH","annualizedRate":2.905,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":91,"actualNumberOfDays":0,"marketCode":"SH204091"}}
+2019-04-10 21:25:15,301 - root - INFO - ******* Excute test02 Success *******
+2019-04-10 21:25:15,421 - root - INFO - Post Http success
+2019-04-10 21:25:15,422 - root - ERROR - 'OK' != 'jjj'
+- OK
++ jjj
+
+2019-04-10 21:25:15,422 - root - ERROR - Failed
+2019-04-10 21:25:58,045 - root - INFO - Post Http success
+2019-04-10 21:25:58,045 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204091","name":"91天期","marketType":"SH","annualizedRate":2.905,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":91,"actualNumberOfDays":0,"marketCode":"SH204091"}}
+2019-04-10 21:25:58,046 - root - INFO - Excute test01 Success 
+2019-04-10 21:25:59,342 - root - ERROR - HTTPSConnectionPool(host='m.stock.pingan.com', port=443): Read timed out. (read timeout=1.0)
+2019-04-10 21:25:59,343 - root - ERROR - Failed
+2019-04-10 21:28:43,036 - root - INFO - ********TEST START********
+2019-04-10 21:28:43,248 - root - INFO - Post Http success
+2019-04-10 21:28:43,248 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204091","name":"91天期","marketType":"SH","annualizedRate":2.905,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":91,"actualNumberOfDays":0,"marketCode":"SH204091"}}
+2019-04-10 21:28:43,248 - root - INFO - Excute test01 Success 
+2019-04-10 21:28:43,398 - root - INFO - Post Http success
+2019-04-10 21:28:43,399 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204091","name":"91天期","marketType":"SH","annualizedRate":2.905,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":91,"actualNumberOfDays":0,"marketCode":"SH204091"}}
+2019-04-10 21:28:43,400 - root - INFO - Excute test02 Success 
+2019-04-10 21:28:43,514 - root - INFO - Post Http success
+2019-04-10 21:28:43,515 - root - ERROR - 'OK' != 'jjj'
+- OK
++ jjj
+
+2019-04-10 21:28:43,516 - root - ERROR - Failed
+2019-04-10 21:28:43,516 - root - INFO - *********TEST END*********
+2019-04-10 21:28:51,439 - root - INFO - Post Http success
+2019-04-10 21:28:51,440 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204091","name":"91天期","marketType":"SH","annualizedRate":2.905,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":91,"actualNumberOfDays":0,"marketCode":"SH204091"}}
+2019-04-10 21:28:51,440 - root - INFO - Excute test01 Success 
+2019-04-10 21:28:51,602 - root - INFO - Post Http success
+2019-04-10 21:28:51,602 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204091","name":"91天期","marketType":"SH","annualizedRate":2.905,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":91,"actualNumberOfDays":0,"marketCode":"SH204091"}}
+2019-04-10 21:28:51,602 - root - INFO - Excute test02 Success 
+2019-04-10 21:28:51,735 - root - INFO - Post Http success
+2019-04-10 21:28:51,737 - root - ERROR - 'OK' != 'jjj'
+- OK
++ jjj
+
+2019-04-10 21:28:51,737 - root - ERROR - Failed
+2019-04-10 21:29:04,681 - root - INFO - ********TEST START********
+2019-04-10 21:29:04,870 - root - INFO - Post Http success
+2019-04-10 21:29:04,870 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204091","name":"91天期","marketType":"SH","annualizedRate":2.905,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":91,"actualNumberOfDays":0,"marketCode":"SH204091"}}
+2019-04-10 21:29:04,870 - root - INFO - Excute test01 Success 
+2019-04-10 21:29:05,024 - root - INFO - Post Http success
+2019-04-10 21:29:05,024 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204091","name":"91天期","marketType":"SH","annualizedRate":2.905,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":91,"actualNumberOfDays":0,"marketCode":"SH204091"}}
+2019-04-10 21:29:05,024 - root - INFO - Excute test02 Success 
+2019-04-10 21:29:05,161 - root - INFO - Post Http success
+2019-04-10 21:29:05,162 - root - ERROR - 'OK' != 'jjj'
+- OK
++ jjj
+
+2019-04-10 21:29:05,162 - root - ERROR - Failed
+2019-04-10 21:29:05,162 - root - INFO - *********TEST END*********
+2019-04-10 21:31:00,623 - root - INFO - Post Http success
+2019-04-10 21:31:00,623 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204091","name":"91天期","marketType":"SH","annualizedRate":2.905,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":91,"actualNumberOfDays":0,"marketCode":"SH204091"}}
+2019-04-10 21:31:00,623 - root - INFO - Excute test01 Success 
+2019-04-10 21:31:00,717 - root - INFO - Post Http success
+2019-04-10 21:31:00,717 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204091","name":"91天期","marketType":"SH","annualizedRate":2.905,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":91,"actualNumberOfDays":0,"marketCode":"SH204091"}}
+2019-04-10 21:31:00,717 - root - INFO - Excute test02 Success 
+2019-04-10 21:31:01,681 - root - INFO - Post Http success
+2019-04-10 21:31:07,672 - root - INFO - ********TEST START********
+2019-04-10 21:31:07,820 - root - INFO - Post Http success
+2019-04-10 21:31:07,821 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204091","name":"91天期","marketType":"SH","annualizedRate":2.905,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":91,"actualNumberOfDays":0,"marketCode":"SH204091"}}
+2019-04-10 21:31:07,821 - root - INFO - Excute test01 Success 
+2019-04-10 21:31:07,997 - root - INFO - Post Http success
+2019-04-10 21:31:07,997 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204091","name":"91天期","marketType":"SH","annualizedRate":2.905,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":91,"actualNumberOfDays":0,"marketCode":"SH204091"}}
+2019-04-10 21:31:07,997 - root - INFO - Excute test02 Success 
+2019-04-10 21:31:08,236 - root - INFO - Post Http success
+2019-04-10 21:31:08,238 - root - INFO - *********TEST END*********
+2019-04-10 21:31:27,250 - root - INFO - Post Http success
+2019-04-10 21:31:27,251 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204091","name":"91天期","marketType":"SH","annualizedRate":2.905,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":91,"actualNumberOfDays":0,"marketCode":"SH204091"}}
+2019-04-10 21:31:27,252 - root - INFO - Excute test01 Success 
+2019-04-10 21:31:27,366 - root - INFO - Post Http success
+2019-04-10 21:31:27,367 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204091","name":"91天期","marketType":"SH","annualizedRate":2.905,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":91,"actualNumberOfDays":0,"marketCode":"SH204091"}}
+2019-04-10 21:31:27,367 - root - INFO - Excute test02 Success 
+2019-04-10 21:31:27,446 - root - INFO - Post Http success
+2019-04-10 21:32:28,142 - root - INFO - Post Http success
+2019-04-10 21:32:28,143 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204091","name":"91天期","marketType":"SH","annualizedRate":2.905,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":91,"actualNumberOfDays":0,"marketCode":"SH204091"}}
+2019-04-10 21:32:28,143 - root - INFO - Excute test01 Success 
+2019-04-10 21:32:28,924 - root - INFO - Post Http success
+2019-04-10 21:32:28,925 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204091","name":"91天期","marketType":"SH","annualizedRate":2.905,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":91,"actualNumberOfDays":0,"marketCode":"SH204091"}}
+2019-04-10 21:32:28,925 - root - INFO - Excute test02 Success 
+2019-04-10 21:32:29,074 - root - INFO - Post Http success
+2019-04-10 21:32:29,075 - root - ERROR - 'OK' != 'jjj'
+- OK
++ jjj
+
+2019-04-10 21:32:29,075 - root - ERROR - Failed
+2019-04-10 21:33:04,738 - root - INFO - Post Http success
+2019-04-10 21:33:04,740 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204091","name":"91天期","marketType":"SH","annualizedRate":2.905,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":91,"actualNumberOfDays":0,"marketCode":"SH204091"}}
+2019-04-10 21:33:04,740 - root - INFO - Excute test01 Success 
+2019-04-10 21:33:04,870 - root - INFO - Post Http success
+2019-04-10 21:33:04,870 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204091","name":"91天期","marketType":"SH","annualizedRate":2.905,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":91,"actualNumberOfDays":0,"marketCode":"SH204091"}}
+2019-04-10 21:33:04,870 - root - INFO - Excute test02 Success 
+2019-04-10 21:33:05,058 - root - INFO - Post Http success
+2019-04-10 21:33:05,059 - root - ERROR - 'OK' != 'jjj'
+- OK
++ jjj
+
+2019-04-10 21:33:05,059 - root - ERROR - Failed
+2019-04-10 21:33:15,587 - root - INFO - Post Http success
+2019-04-10 21:33:15,587 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204091","name":"91天期","marketType":"SH","annualizedRate":2.905,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":91,"actualNumberOfDays":0,"marketCode":"SH204091"}}
+2019-04-10 21:33:15,588 - root - INFO - Excute test01 Success 
+2019-04-10 21:33:15,693 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204091","name":"91天期","marketType":"SH","annualizedRate":2.905,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":91,"actualNumberOfDays":0,"marketCode":"SH204091"}}
+2019-04-10 21:33:15,693 - root - INFO - Excute test02 Success 
+2019-04-10 21:34:18,305 - root - INFO - Post Http success
+2019-04-10 21:34:18,305 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204091","name":"91天期","marketType":"SH","annualizedRate":2.905,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":91,"actualNumberOfDays":0,"marketCode":"SH204091"}}
+2019-04-10 21:34:18,306 - root - INFO - Excute test01 Success 
+2019-04-10 21:34:18,480 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204091","name":"91天期","marketType":"SH","annualizedRate":2.905,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":91,"actualNumberOfDays":0,"marketCode":"SH204091"}}
+2019-04-10 21:34:18,481 - root - INFO - Excute test02 Success 
+2019-04-10 21:36:06,016 - root - INFO - Get Http success
+2019-04-10 21:36:06,018 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204091","name":"91天期","marketType":"SH","annualizedRate":2.905,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":91,"actualNumberOfDays":0,"marketCode":"SH204091"}}
+2019-04-10 21:36:06,018 - root - INFO - Excute test01 Success 
+2019-04-10 21:36:06,572 - root - INFO - Get Http success
+2019-04-10 21:36:06,572 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204091","name":"91天期","marketType":"SH","annualizedRate":2.905,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":91,"actualNumberOfDays":0,"marketCode":"SH204091"}}
+2019-04-10 21:36:06,572 - root - INFO - Excute test02 Success 
+2019-04-10 21:36:28,843 - root - INFO - Get Http success
+2019-04-10 21:36:28,845 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204091","name":"91天期","marketType":"SH","annualizedRate":2.905,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":91,"actualNumberOfDays":0,"marketCode":"SH204091"}}
+2019-04-10 21:36:28,845 - root - INFO - Excute test01 Success 
+2019-04-10 21:36:29,693 - root - INFO - Post Http success
+2019-04-10 21:36:29,693 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204091","name":"91天期","marketType":"SH","annualizedRate":2.905,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":91,"actualNumberOfDays":0,"marketCode":"SH204091"}}
+2019-04-10 21:36:29,693 - root - INFO - Excute test02 Success 
+2019-04-10 21:37:17,016 - root - INFO - Post Http success
+2019-04-10 21:37:17,019 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204091","name":"91天期","marketType":"SH","annualizedRate":2.905,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":91,"actualNumberOfDays":0,"marketCode":"SH204091"}}
+2019-04-10 21:37:17,019 - root - INFO - Excute test01 Success 
+2019-04-10 21:37:17,166 - root - INFO - Get Http success
+2019-04-10 21:37:17,166 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204091","name":"91天期","marketType":"SH","annualizedRate":2.905,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":91,"actualNumberOfDays":0,"marketCode":"SH204091"}}
+2019-04-10 21:37:17,167 - root - INFO - Excute test02 Success
+
+
+
+----------------
+
+
+2019-04-10 21:37:42,233 - root - INFO - Post Http success
+2019-04-10 21:37:42,234 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204091","name":"91天期","marketType":"SH","annualizedRate":2.905,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":91,"actualNumberOfDays":0,"marketCode":"SH204091"}}
+2019-04-10 21:37:42,234 - root - INFO - Excute test01 Success 
+2019-04-10 21:37:42,748 - root - INFO - Get Http success
+2019-04-10 21:37:42,748 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204091","name":"91天期","marketType":"SH","annualizedRate":2.905,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":91,"actualNumberOfDays":0,"marketCode":"SH204091"}}
+2019-04-10 21:37:42,749 - root - INFO - Excute test02 Success 

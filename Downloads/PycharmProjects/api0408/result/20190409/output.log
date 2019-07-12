@@ -1,0 +1,19 @@
+2019-04-09 15:33:46,364 - root - ERROR - (2003, "Can't connect to MySQL server on '50.23.190.57' ([Errno 61] Connection refused)")
+2019-04-09 17:43:17,040 - root - INFO - ********TEST START********
+2019-04-09 17:43:17,042 - root - INFO - *********TEST END*********
+2019-04-09 17:43:29,863 - root - INFO - Have no case to test.
+2019-04-09 17:43:29,864 - root - INFO - *********TEST END*********
+2019-04-09 17:44:10,934 - root - INFO - ********TEST START********
+2019-04-09 17:44:10,937 - root - INFO - *********TEST END*********
+2019-04-09 17:46:00,205 - root - INFO - Have no case to test.
+2019-04-09 17:46:00,205 - root - INFO - *********TEST END*********
+2019-04-09 17:47:32,691 - root - INFO - ********TEST START********
+2019-04-09 17:47:32,692 - root - INFO - *********TEST END*********
+2019-04-09 17:48:14,386 - root - INFO - ********TEST START********
+2019-04-09 17:48:14,386 - root - INFO - *********TEST END*********
+2019-04-09 17:49:09,130 - root - INFO - ********TEST START********
+2019-04-09 17:49:09,131 - root - INFO - *********TEST END*********
+2019-04-09 18:13:46,165 - root - INFO - ********TEST START********
+2019-04-09 18:13:46,165 - root - INFO - *********TEST END*********
+2019-04-09 19:52:31,797 - root - INFO - ********TEST START********
+2019-04-09 19:52:31,799 - root - INFO - *********TEST END*********

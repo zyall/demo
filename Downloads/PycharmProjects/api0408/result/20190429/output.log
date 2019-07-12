@@ -1,0 +1,225 @@
+2019-04-29 00:19:15,406 - root - INFO - Post Http success
+2019-04-29 00:19:38,183 - root - INFO - Post Http success
+2019-04-29 00:19:38,184 - root - ERROR - 1 != 200.0
+2019-04-29 00:19:38,184 - root - ERROR - Failed
+2019-04-29 00:20:22,190 - root - INFO - Post Http success
+2019-04-29 00:20:47,014 - root - INFO - Post Http success
+2019-04-29 00:20:47,015 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204007","name":"7天期","marketType":"SH","annualizedRate":3.335,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":7,"actualNumberOfDays":0,"marketCode":"SH204007"}}
+2019-04-29 00:20:47,015 - root - INFO - Excute case01 Success 
+2019-04-29 00:21:12,104 - root - INFO - Post Http success
+2019-04-29 00:21:12,105 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204007","name":"7天期","marketType":"SH","annualizedRate":3.335,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":7,"actualNumberOfDays":0,"marketCode":"SH204007"}}
+2019-04-29 00:21:12,105 - root - INFO - Excute ***case01**** Success 
+2019-04-29 00:21:41,651 - root - INFO - Post Http success
+2019-04-29 00:21:41,651 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204007","name":"7天期","marketType":"SH","annualizedRate":3.335,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":7,"actualNumberOfDays":0,"marketCode":"SH204007"}}
+2019-04-29 00:21:41,652 - root - INFO - ******* Excute case01 Start ******* 
+2019-04-29 00:23:03,497 - root - INFO - Post Http success
+2019-04-29 00:23:03,498 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204007","name":"7天期","marketType":"SH","annualizedRate":3.335,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":7,"actualNumberOfDays":0,"marketCode":"SH204007"}}
+2019-04-29 00:23:03,518 - root - INFO - ******* Excute case01 Start ******* 
+2019-04-29 00:24:16,087 - root - INFO - Post Http success
+2019-04-29 00:24:16,087 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204007","name":"7天期","marketType":"SH","annualizedRate":3.335,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":7,"actualNumberOfDays":0,"marketCode":"SH204007"}}
+2019-04-29 00:24:16,099 - root - INFO - ******* Excute case01 Start ******* 
+2019-04-29 00:24:16,213 - root - INFO - Post Http success
+2019-04-29 00:24:16,224 - root - ERROR - 1 != 2.0
+2019-04-29 00:24:16,224 - root - ERROR - Failed
+2019-04-29 00:25:21,130 - root - ERROR - HTTPSConnectionPool(host='m.stock.pingan.com', port=443): Max retries exceeded with url: /hq/restapi/queryBondRate (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x104905748>, 'Connection to m.stock.pingan.com timed out. (connect timeout=1.0)'))
+2019-04-29 00:25:21,130 - root - ERROR - Failed
+2019-04-29 00:25:49,911 - root - ERROR - HTTPSConnectionPool(host='m.stock.pingan.com', port=443): Read timed out. (read timeout=1.0)
+2019-04-29 00:25:49,911 - root - ERROR - Failed
+2019-04-29 00:26:04,722 - root - INFO - Post Http success
+2019-04-29 00:26:04,722 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204007","name":"7天期","marketType":"SH","annualizedRate":3.335,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":7,"actualNumberOfDays":0,"marketCode":"SH204007"}}
+2019-04-29 00:26:04,737 - root - INFO - ******* Excute case01 Start ******* 
+2019-04-29 00:26:18,316 - root - INFO - Post Http success
+2019-04-29 00:26:18,316 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204007","name":"7天期","marketType":"SH","annualizedRate":3.335,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":7,"actualNumberOfDays":0,"marketCode":"SH204007"}}
+2019-04-29 00:26:18,333 - root - INFO - ******* Excute case01 Start ******* 
+2019-04-29 00:27:25,375 - root - INFO - Post Http success
+2019-04-29 00:27:25,375 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204007","name":"7天期","marketType":"SH","annualizedRate":3.335,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":7,"actualNumberOfDays":0,"marketCode":"SH204007"}}
+2019-04-29 00:27:25,395 - root - INFO - ******* Excute case01 Start ******* 
+2019-04-29 00:27:25,690 - root - INFO - Post Http success
+2019-04-29 00:27:25,700 - root - ERROR - 1 != 2.0
+2019-04-29 00:27:25,700 - root - ERROR - Failed
+2019-04-29 00:28:58,506 - root - INFO - Post Http success
+2019-04-29 00:28:58,506 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204007","name":"7天期","marketType":"SH","annualizedRate":3.335,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":7,"actualNumberOfDays":0,"marketCode":"SH204007"}}
+2019-04-29 00:28:58,516 - root - INFO - ******* Excute case01 Start ******* 
+2019-04-29 00:28:58,606 - root - INFO - Post Http success
+2019-04-29 00:28:58,620 - root - ERROR - 1 != 2.0
+2019-04-29 00:28:58,621 - root - ERROR - Failed
+2019-04-29 00:29:21,830 - root - INFO - Post Http success
+2019-04-29 00:29:21,831 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204007","name":"7天期","marketType":"SH","annualizedRate":3.335,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":7,"actualNumberOfDays":0,"marketCode":"SH204007"}}
+2019-04-29 00:29:21,843 - root - INFO - ******* Excute case01 Start ******* 
+2019-04-29 00:29:21,906 - root - INFO - Post Http success
+2019-04-29 00:29:21,916 - root - ERROR - 1 != 2.0
+2019-04-29 00:29:21,916 - root - ERROR - Failed
+2019-04-29 00:29:34,255 - root - ERROR - HTTPSConnectionPool(host='m.stock.pingan.com', port=443): Max retries exceeded with url: /hq/restapi/queryBondRate (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x10439fa20>, 'Connection to m.stock.pingan.com timed out. (connect timeout=1.0)'))
+2019-04-29 00:29:34,255 - root - ERROR - Failed
+2019-04-29 00:30:07,262 - root - INFO - Post Http success
+2019-04-29 00:30:07,262 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204007","name":"7天期","marketType":"SH","annualizedRate":3.335,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":7,"actualNumberOfDays":0,"marketCode":"SH204007"}}
+2019-04-29 00:30:07,273 - root - INFO - ******* Excute case01 Start ******* 
+2019-04-29 00:30:07,379 - root - INFO - Post Http success
+2019-04-29 00:30:07,390 - root - ERROR - 1 != 2.0
+2019-04-29 00:30:07,390 - root - ERROR - Failed
+================================
+
+
+2019-04-29 00:30:38,659 - root - INFO - Post Http success
+2019-04-29 00:30:38,660 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204007","name":"7天期","marketType":"SH","annualizedRate":3.335,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":7,"actualNumberOfDays":0,"marketCode":"SH204007"}}
+2019-04-29 00:30:38,672 - root - INFO - ******* Excute case01 Start ******* 
+2019-04-29 00:30:38,813 - root - INFO - Post Http success
+2019-04-29 00:30:38,823 - root - ERROR - 1 != 2.0
+2019-04-29 00:30:38,823 - root - ERROR - Failed
+2019-04-29 00:31:28,869 - root - INFO - Post Http success
+2019-04-29 00:31:28,869 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204007","name":"7天期","marketType":"SH","annualizedRate":3.335,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":7,"actualNumberOfDays":0,"marketCode":"SH204007"}}
+2019-04-29 00:31:28,877 - root - INFO - ******* Excute case01 Start ******* 
+2019-04-29 00:31:28,979 - root - INFO - Post Http success
+2019-04-29 00:31:28,991 - root - ERROR - 1 != 2.0
+2019-04-29 00:31:28,991 - root - ERROR - Failed
+===========================
+
+2019-04-29 00:32:28,560 - root - ERROR - HTTPSConnectionPool(host='m.stock.pingan.com', port=443): Max retries exceeded with url: /hq/restapi/queryBondRate (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x10ed18c88>, 'Connection to m.stock.pingan.com timed out. (connect timeout=1.0)'))
+2019-04-29 00:32:28,561 - root - ERROR - Failed
+==============================
+2019-04-29 00:32:45,404 - root - INFO - Post Http success
+2019-04-29 00:32:45,405 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204007","name":"7天期","marketType":"SH","annualizedRate":3.335,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":7,"actualNumberOfDays":0,"marketCode":"SH204007"}}
+2019-04-29 00:32:45,421 - root - INFO - ******* Excute case01 Start ******* 
+2019-04-29 00:32:45,523 - root - INFO - Post Http success
+2019-04-29 00:32:45,537 - root - ERROR - 1 != 2.0
+2019-04-29 00:32:45,537 - root - ERROR - Failed
+2019-04-29 00:33:20,828 - root - ERROR - HTTPSConnectionPool(host='m.stock.pingan.com', port=443): Max retries exceeded with url: /hq/restapi/queryBondRate (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x1092ee668>, 'Connection to m.stock.pingan.com timed out. (connect timeout=1.0)'))
+2019-04-29 00:33:20,828 - root - ERROR - Failed
+2019-04-29 00:33:30,332 - root - ERROR - HTTPSConnectionPool(host='m.stock.pingan.com', port=443): Read timed out. (read timeout=1.0)
+2019-04-29 00:33:30,332 - root - ERROR - Failed
+2019-04-29 00:34:27,669 - root - INFO - Post Http success
+2019-04-29 00:34:27,669 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204007","name":"7天期","marketType":"SH","annualizedRate":3.335,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":7,"actualNumberOfDays":0,"marketCode":"SH204007"}}
+2019-04-29 00:34:27,687 - root - INFO - ******* Excute case01 Start ******* 
+2019-04-29 00:34:27,837 - root - INFO - Post Http success
+2019-04-29 00:34:27,837 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204007","name":"7天期","marketType":"SH","annualizedRate":3.335,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":7,"actualNumberOfDays":0,"marketCode":"SH204007"}}
+2019-04-29 00:34:27,855 - root - INFO - ******* Excute case02 Start ******* 
+2019-04-29 00:34:49,042 - root - INFO - Post Http success
+2019-04-29 00:34:49,042 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204007","name":"7天期","marketType":"SH","annualizedRate":3.335,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":7,"actualNumberOfDays":0,"marketCode":"SH204007"}}
+2019-04-29 00:34:49,058 - root - INFO - ******* Excute case01 Start ******* 
+2019-04-29 00:34:50,075 - root - ERROR - HTTPSConnectionPool(host='m.stock.pingan.com', port=443): Max retries exceeded with url: /hq/restapi/queryBondRate (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x10a0b7438>, 'Connection to m.stock.pingan.com timed out. (connect timeout=1.0)'))
+2019-04-29 00:34:50,075 - root - ERROR - Failed
+2019-04-29 00:35:14,426 - root - INFO - Post Http success
+2019-04-29 00:35:14,426 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204007","name":"7天期","marketType":"SH","annualizedRate":3.335,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":7,"actualNumberOfDays":0,"marketCode":"SH204007"}}
+2019-04-29 00:35:14,438 - root - INFO - ******* Excute case01 Start ******* 
+2019-04-29 00:35:14,593 - root - INFO - Post Http success
+2019-04-29 00:35:14,593 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204007","name":"7天期","marketType":"SH","annualizedRate":3.335,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":7,"actualNumberOfDays":0,"marketCode":"SH204007"}}
+2019-04-29 00:35:14,603 - root - INFO - ******* Excute case02 Start ******* 
+2019-04-29 00:37:16,236 - root - INFO - Post Http success
+2019-04-29 00:37:16,238 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204007","name":"7天期","marketType":"SH","annualizedRate":3.335,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":7,"actualNumberOfDays":0,"marketCode":"SH204007"}}
+2019-04-29 00:37:16,253 - root - INFO - ******* Excute case01 Start ******* 
+2019-04-29 00:37:16,389 - root - INFO - Post Http success
+2019-04-29 00:37:16,405 - root - ERROR - 1 != 2.0
+2019-04-29 00:37:16,405 - root - ERROR - Failed
+2019-04-29 00:38:00,500 - root - INFO - Post Http success
+2019-04-29 00:38:00,501 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204007","name":"7天期","marketType":"SH","annualizedRate":3.335,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":7,"actualNumberOfDays":0,"marketCode":"SH204007"}}
+2019-04-29 00:38:00,516 - root - INFO - ******* Excute case01 Start ******* 
+2019-04-29 00:38:00,578 - root - INFO - Post Http success
+2019-04-29 00:38:00,589 - root - ERROR - 1 != 2.0
+2019-04-29 00:38:00,589 - root - ERROR - Failed
+2019-04-29 01:32:45,792 - root - INFO - Post Http success
+2019-04-29 01:32:45,793 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204007","name":"7天期","marketType":"SH","annualizedRate":3.335,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":7,"actualNumberOfDays":0,"marketCode":"SH204007"}}
+2019-04-29 01:32:45,807 - root - INFO - ******* Excute case01 Start ******* 
+2019-04-29 01:32:45,941 - root - INFO - Post Http success
+2019-04-29 01:32:45,954 - root - ERROR - 1 != 2.0
+2019-04-29 01:32:45,955 - root - ERROR - Failed
+2019-04-29 01:33:08,909 - root - INFO - Post Http success
+2019-04-29 01:33:08,911 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204007","name":"7天期","marketType":"SH","annualizedRate":3.335,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":7,"actualNumberOfDays":0,"marketCode":"SH204007"}}
+2019-04-29 01:33:08,931 - root - INFO - ******* Excute case01 Start ******* 
+2019-04-29 01:33:09,100 - root - INFO - Post Http success
+2019-04-29 01:33:09,113 - root - ERROR - 1 != 2.0
+2019-04-29 01:33:09,113 - root - ERROR - Failed
+2019-04-29 01:34:08,930 - root - INFO - Post Http success
+2019-04-29 01:34:08,932 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204007","name":"7天期","marketType":"SH","annualizedRate":3.335,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":7,"actualNumberOfDays":0,"marketCode":"SH204007"}}
+2019-04-29 01:34:08,946 - root - INFO - ******* Excute case01 Start ******* 
+2019-04-29 01:34:09,228 - root - INFO - Post Http success
+2019-04-29 01:34:09,244 - root - ERROR - 1 != 2.0
+2019-04-29 01:34:09,244 - root - ERROR - Failed
+2019-04-29 01:34:25,465 - root - ERROR - HTTPSConnectionPool(host='m.stock.pingan.com', port=443): Max retries exceeded with url: /hq/restapi/queryBondRate (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x106bee828>, 'Connection to m.stock.pingan.com timed out. (connect timeout=1.0)'))
+2019-04-29 01:34:25,465 - root - ERROR - Failed
+2019-04-29 01:34:42,826 - root - INFO - Post Http success
+2019-04-29 01:34:42,826 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204007","name":"7天期","marketType":"SH","annualizedRate":3.335,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":7,"actualNumberOfDays":0,"marketCode":"SH204007"}}
+2019-04-29 01:34:42,841 - root - INFO - ******* Excute case01 Start ******* 
+2019-04-29 01:34:43,859 - root - ERROR - HTTPSConnectionPool(host='m.stock.pingan.com', port=443): Max retries exceeded with url: /hq/restapi/queryBondRate (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x10f2774a8>, 'Connection to m.stock.pingan.com timed out. (connect timeout=1.0)'))
+2019-04-29 01:34:43,859 - root - ERROR - Failed
+2019-04-29 01:35:15,838 - root - ERROR - HTTPSConnectionPool(host='m.stock.pingan.com', port=443): Max retries exceeded with url: /hq/restapi/queryBondRate (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x10d68f668>, 'Connection to m.stock.pingan.com timed out. (connect timeout=1.0)'))
+2019-04-29 01:35:15,839 - root - ERROR - Failed
+2019-04-29 09:28:43,256 - root - ERROR - HTTPSConnectionPool(host='m.stock.pingan.com', port=443): Max retries exceeded with url: /hq/restapi/queryBondRate (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x105da5710>, 'Connection to m.stock.pingan.com timed out. (connect timeout=1.0)'))
+2019-04-29 09:28:43,257 - root - ERROR - Failed
+2019-04-29 09:29:25,091 - root - ERROR - HTTPSConnectionPool(host='m.stock.pingan.com', port=443): Read timed out. (read timeout=1.0)
+2019-04-29 09:29:25,091 - root - ERROR - Failed
+2019-04-29 09:29:29,744 - root - INFO - Post Http success
+2019-04-29 09:29:29,745 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204007","name":"7天期","marketType":"SH","annualizedRate":3.3,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":7,"actualNumberOfDays":0,"marketCode":"SH204007"}}
+2019-04-29 09:29:29,759 - root - INFO - ******* Excute case01 Start ******* 
+2019-04-29 09:29:29,869 - root - INFO - Post Http success
+2019-04-29 09:29:29,884 - root - ERROR - 1 != 2.0
+2019-04-29 09:29:29,884 - root - ERROR - Failed
+2019-04-29 10:00:39,069 - root - INFO - Post Http success
+2019-04-29 10:00:39,069 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204004","name":"4天期","marketType":"SH","annualizedRate":3.29,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":4,"actualNumberOfDays":0,"marketCode":"SH204004"}}
+2019-04-29 10:00:39,070 - root - ERROR - name 'vlaue' is not defined
+2019-04-29 10:00:39,070 - root - ERROR - Failed
+2019-04-29 10:01:06,616 - root - INFO - Post Http success
+2019-04-29 10:01:06,617 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204004","name":"4天期","marketType":"SH","annualizedRate":3.29,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":4,"actualNumberOfDays":0,"marketCode":"SH204004"}}
+2019-04-29 10:01:06,662 - root - INFO - ******* Excute case01 Start ******* 
+2019-04-29 10:01:06,751 - root - INFO - Post Http success
+2019-04-29 10:01:06,752 - root - ERROR - 1 != 2.0
+2019-04-29 10:01:06,752 - root - ERROR - Failed
+2019-04-29 10:01:30,421 - root - INFO - Post Http success
+2019-04-29 10:01:30,421 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204004","name":"4天期","marketType":"SH","annualizedRate":3.29,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":4,"actualNumberOfDays":0,"marketCode":"SH204004"}}
+2019-04-29 10:01:30,455 - root - INFO - ******* Excute case01 Start ******* 
+2019-04-29 10:01:30,560 - root - INFO - Post Http success
+2019-04-29 10:01:30,560 - root - ERROR - 1 != 2.0
+2019-04-29 10:01:30,561 - root - ERROR - Failed
+2019-04-29 10:01:41,583 - root - INFO - Post Http success
+2019-04-29 10:01:41,584 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204004","name":"4天期","marketType":"SH","annualizedRate":3.29,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":4,"actualNumberOfDays":0,"marketCode":"SH204004"}}
+2019-04-29 10:01:41,617 - root - INFO - ******* Excute case01 Start ******* 
+2019-04-29 10:01:41,737 - root - INFO - Post Http success
+2019-04-29 10:01:41,738 - root - ERROR - 1 != 2.0
+2019-04-29 10:01:41,738 - root - ERROR - Failed
+2019-04-29 10:21:30,994 - root - INFO - Post Http success
+2019-04-29 10:21:30,996 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204001","name":"1天期","marketType":"SH","annualizedRate":3.355,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":1,"actualNumberOfDays":0,"marketCode":"SH204001"}}
+2019-04-29 10:21:31,005 - root - INFO - ******* Excute case01 Start ******* 
+2019-04-29 10:21:31,101 - root - INFO - Post Http success
+2019-04-29 10:21:31,101 - root - ERROR - 1 != 2.0
+2019-04-29 10:21:31,101 - root - ERROR - Failed
+2019-04-29 10:21:58,178 - root - ERROR - HTTPSConnectionPool(host='m.stock.pingan.com', port=443): Read timed out. (read timeout=1.0)
+2019-04-29 10:21:58,178 - root - ERROR - Failed
+2019-04-29 10:22:29,037 - root - ERROR - HTTPSConnectionPool(host='m.stock.pingan.com', port=443): Read timed out. (read timeout=1.0)
+2019-04-29 10:22:29,038 - root - ERROR - Failed
+2019-04-29 10:25:19,443 - root - INFO - Post Http success
+2019-04-29 10:25:19,444 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204001","name":"1天期","marketType":"SH","annualizedRate":3.315,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":1,"actualNumberOfDays":0,"marketCode":"SH204001"}}
+2019-04-29 10:25:19,462 - root - INFO - ******* Excute case01 Start ******* 
+2019-04-29 10:25:19,561 - root - INFO - Post Http success
+2019-04-29 10:25:19,575 - root - ERROR - 1 != 2.0
+2019-04-29 10:25:19,575 - root - ERROR - Failed
+2019-04-29 10:26:01,307 - root - INFO - Post Http success
+2019-04-29 10:26:01,309 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"131810","name":"1天期","marketType":"SZ","annualizedRate":3.35,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":1,"actualNumberOfDays":0,"marketCode":"SZ131810"}}
+2019-04-29 10:26:01,324 - root - INFO - ******* Excute case01 Start ******* 
+2019-04-29 10:26:01,416 - root - INFO - Post Http success
+2019-04-29 10:26:01,417 - root - ERROR - 1 != 2.0
+2019-04-29 10:26:01,418 - root - ERROR - Failed
+2019-04-29 11:29:27,707 - root - ERROR - HTTPSConnectionPool(host='m.stock.pingan.com', port=443): Max retries exceeded with url: /hq/restapi/queryBondRate (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x101a5ec88>, 'Connection to m.stock.pingan.com timed out. (connect timeout=1.0)'))
+2019-04-29 11:29:27,708 - root - ERROR - Failed
+2019-04-29 11:30:01,121 - root - INFO - Post Http success
+2019-04-29 11:30:01,121 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204004","name":"4天期","marketType":"SH","annualizedRate":3.36,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":4,"actualNumberOfDays":0,"marketCode":"SH204004"}}
+2019-04-29 11:30:01,121 - root - INFO - ******* Excute case01 Start ******* 
+2019-04-29 11:30:01,290 - root - INFO - Post Http success
+2019-04-29 11:30:01,291 - root - ERROR - 1 != 2.0
+2019-04-29 11:30:01,291 - root - ERROR - Failed
+2019-04-29 11:30:19,202 - root - ERROR - HTTPSConnectionPool(host='m.stock.pingan.com', port=443): Read timed out. (read timeout=1.0)
+2019-04-29 11:30:19,202 - root - ERROR - Failed
+2019-04-29 11:31:04,132 - root - INFO - Post Http success
+2019-04-29 11:31:04,132 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"131811","name":"2天期","marketType":"SZ","annualizedRate":3.35,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":2,"actualNumberOfDays":0,"marketCode":"SZ131811"}}
+2019-04-29 11:31:04,133 - root - INFO - ******* Excute case01 Start ******* 
+2019-04-29 11:31:04,270 - root - INFO - Post Http success
+2019-04-29 11:31:04,271 - root - ERROR - 1 != 2.0
+2019-04-29 11:31:04,271 - root - ERROR - Failed
+2019-04-29 13:47:26,387 - root - INFO - Post Http success
+2019-04-29 13:47:26,388 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204001","name":"1天期","marketType":"SH","annualizedRate":3.31,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":1,"actualNumberOfDays":0,"marketCode":"SH204001"}}
+2019-04-29 13:47:26,389 - root - INFO - ******* Excute case01 Start ******* 
+2019-04-29 13:47:26,473 - root - INFO - Post Http success
+2019-04-29 13:47:26,475 - root - ERROR - 1 != 2.0
+2019-04-29 13:47:26,475 - root - ERROR - Failed
+2019-04-29 13:49:27,744 - root - ERROR - HTTPSConnectionPool(host='m.stock.pingan.com', port=443): Read timed out. (read timeout=1.0)
+2019-04-29 13:49:27,746 - root - ERROR - Failed
+2019-04-29 13:50:08,403 - root - ERROR - HTTPSConnectionPool(host='m.stock.pingan.com', port=443): Read timed out. (read timeout=1.0)
+2019-04-29 13:50:08,403 - root - ERROR - Failed

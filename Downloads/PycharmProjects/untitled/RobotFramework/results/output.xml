@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generated="20180228 14:44:26.339" generator="Robot 3.0.2 (Python 2.7.10 on darwin)">
+<suite source="/Users/zq1/PycharmProjects/untitled1/RobotFramework/log.robot" id="s1" name="Log">
+<test id="s1-t1" name="test_case_1">
+<kw name="Set Variable" library="BuiltIn">
+<doc>Returns the given values which can then be assigned to a variables.</doc>
+<arguments>
+<arg>1</arg>
+</arguments>
+<assign>
+<var>${a}</var>
+</assign>
+<msg timestamp="20180228 14:44:26.371" level="INFO">${a} = 1</msg>
+<status status="PASS" endtime="20180228 14:44:26.371" starttime="20180228 14:44:26.371"></status>
+</kw>
+<kw name="Log" library="BuiltIn">
+<doc>Logs the given message with the given level.</doc>
+<arguments>
+<arg>${a}</arg>
+</arguments>
+<msg timestamp="20180228 14:44:26.372" level="INFO">1</msg>
+<status status="PASS" endtime="20180228 14:44:26.372" starttime="20180228 14:44:26.371"></status>
+</kw>
+<kw name="Should Be Equal" library="BuiltIn">
+<doc>Fails if the given objects are unequal.</doc>
+<arguments>
+<arg>${a}</arg>
+<arg>1</arg>
+</arguments>
+<status status="PASS" endtime="20180228 14:44:26.373" starttime="20180228 14:44:26.372"></status>
+</kw>
+<tags>
+<tag>Level1</tag>
+</tags>
+<status status="PASS" endtime="20180228 14:44:26.373" critical="yes" starttime="20180228 14:44:26.370"></status>
+</test>
+<test id="s1-t2" name="test_case_2">
+<kw name="Set Variable" library="BuiltIn">
+<doc>Returns the given values which can then be assigned to a variables.</doc>
+<arguments>
+<arg>1</arg>
+</arguments>
+<assign>
+<var>${a}</var>
+</assign>
+<msg timestamp="20180228 14:44:26.374" level="INFO">${a} = 1</msg>
+<status status="PASS" endtime="20180228 14:44:26.374" starttime="20180228 14:44:26.374"></status>
+</kw>
+<kw name="Pri" library="Per">
+<arguments>
+<arg>${a}</arg>
+</arguments>
+<msg timestamp="20180228 14:44:26.375" level="INFO">1</msg>
+<status status="PASS" endtime="20180228 14:44:26.375" starttime="20180228 14:44:26.374"></status>
+</kw>
+<kw name="Should Be Equal" library="BuiltIn">
+<doc>Fails if the given objects are unequal.</doc>
+<arguments>
+<arg>${a}</arg>
+<arg>2</arg>
+</arguments>
+<msg timestamp="20180228 14:44:26.375" level="FAIL">1 != 2</msg>
+<status status="FAIL" endtime="20180228 14:44:26.375" starttime="20180228 14:44:26.375"></status>
+</kw>
+<status status="FAIL" endtime="20180228 14:44:26.376" critical="yes" starttime="20180228 14:44:26.374">1 != 2</status>
+</test>
+<status status="FAIL" endtime="20180228 14:44:26.376" starttime="20180228 14:44:26.342"></status>
+</suite>
+<statistics>
+<total>
+<stat fail="1" pass="1">Critical Tests</stat>
+<stat fail="1" pass="1">All Tests</stat>
+</total>
+<tag>
+<stat fail="0" pass="1">Level1</stat>
+</tag>
+<suite>
+<stat fail="1" id="s1" name="Log" pass="1">Log</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

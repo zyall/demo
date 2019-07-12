@@ -1,0 +1,36 @@
+1.先安装virtualenv
+sudo pip install virtualenv
+
+2.创建venv文件夹
+virtualenv venv
+
+3.进入venv文件夹
+进入虚拟环境
+source bin/activate
+
+4.安装flask
+pip install Flask
+
+5.创建数据库
+sqlite3 defect.db
+.databases
+退出
+.quit
+
+创建文件 init.sql
+将表结构写入init.sql
+
+将表结构导入数据库，创建表
+sqlite3 defect.db < init.sql
+
+6.创建文件夹
+static  templates
+7.将index.html文件放入templates下
+8.创建app.py文件
+9.执行app.py文件
+export FLASK_app=app.py
+flask run
+
+10.退出虚拟环境
+deactivate
+

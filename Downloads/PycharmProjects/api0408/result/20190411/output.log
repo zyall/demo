@@ -1,0 +1,14 @@
+2019-04-11 15:44:45,149 - root - INFO - Post Http success
+2019-04-11 15:44:45,150 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204028","name":"28天期","marketType":"SH","annualizedRate":2.885,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":28,"actualNumberOfDays":0,"marketCode":"SH204028"}}
+2019-04-11 15:44:45,150 - root - INFO - Excute test01 Success 
+2019-04-11 15:44:45,230 - root - INFO - Get Http success
+2019-04-11 15:44:45,231 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204028","name":"28天期","marketType":"SH","annualizedRate":2.885,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":28,"actualNumberOfDays":0,"marketCode":"SH204028"}}
+2019-04-11 15:44:45,231 - root - INFO - Excute test02 Success 
+2019-04-11 17:35:33,706 - root - INFO - ********TEST START********
+2019-04-11 17:35:33,928 - root - INFO - Post Http success
+2019-04-11 17:35:33,929 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204028","name":"28天期","marketType":"SH","annualizedRate":2.885,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":28,"actualNumberOfDays":0,"marketCode":"SH204028"}}
+2019-04-11 17:35:33,929 - root - INFO - Excute test01 Success 
+2019-04-11 17:35:33,982 - root - INFO - Get Http success
+2019-04-11 17:35:33,983 - root - INFO - {"status":1,"errmsg":"OK","result":{"code":"204028","name":"28天期","marketType":"SH","annualizedRate":2.885,"actualRate":0.0,"maturityYield":0.0,"availableDay":null,"desirableDay":null,"actualExpirationDays":0,"deadline":28,"actualNumberOfDays":0,"marketCode":"SH204028"}}
+2019-04-11 17:35:33,983 - root - INFO - Excute test02 Success 
+2019-04-11 17:35:33,983 - root - INFO - *********TEST END*********
