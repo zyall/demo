@@ -1,0 +1,239 @@
+2019-07-06 20:52:04,298 - INFO - ('xpath', "//*[contains(@text,'成功')]") - test_add_note - line:48
+2019-07-06 21:00:56,201 - INFO - ('xpath', "//*[contains(@text,'成功')]") - test_add_note - line:48
+2019-07-06 21:03:32,478 - INFO - ('xpath', "//*[contains(@text,'保存')]") - test_add_note - line:48
+2019-07-06 21:06:11,297 - INFO - ('xpath', "//*[contains(@text,'保存')]") - test_add_note - line:48
+2019-07-06 21:12:09,766 - INFO - ('xpath', "//*[contains(@text,'保存')]") - test_add_note - line:50
+2019-07-06 21:15:38,314 - INFO - ('xpath', "//*[contains(@text,'保存')]") - test_add_note - line:50
+2019-07-06 21:16:51,179 - INFO - ('xpath', "//*[contains(@text,'保存')]") - test_add_note - line:50
+2019-07-06 21:40:54,275 - INFO - ('xpath', "//*[contains(@text,'保存')]") - test_add_note - line:52
+2019-07-06 21:42:58,189 - INFO - ('xpath', "//*[contains(@text,'保存')]") - test_add_note - line:52
+2019-07-06 21:48:11,522 - INFO - 查找元素第1次 False ('xpath', "//*[contains(@text,'保存')]")  - test_add_note - line:32
+2019-07-06 21:48:11,622 - INFO - 查找元素第2次 False ('xpath', "//*[contains(@text,'保存')]")  - test_add_note - line:32
+2019-07-06 21:48:11,723 - INFO - 查找元素第3次 False ('xpath', "//*[contains(@text,'保存')]")  - test_add_note - line:32
+2019-07-06 21:48:11,824 - INFO - 查找元素第4次 False ('xpath', "//*[contains(@text,'保存')]")  - test_add_note - line:32
+2019-07-06 21:48:11,925 - INFO - 查找元素第5次 False ('xpath', "//*[contains(@text,'保存')]")  - test_add_note - line:32
+2019-07-06 21:48:12,025 - INFO - 查找元素第6次 False ('xpath', "//*[contains(@text,'保存')]")  - test_add_note - line:32
+2019-07-06 21:48:12,125 - INFO - 查找元素第7次 False ('xpath', "//*[contains(@text,'保存')]")  - test_add_note - line:32
+2019-07-06 21:48:12,226 - INFO - 查找元素第8次 False ('xpath', "//*[contains(@text,'保存')]")  - test_add_note - line:32
+2019-07-06 21:48:12,327 - INFO - 查找元素第9次 False ('xpath', "//*[contains(@text,'保存')]")  - test_add_note - line:32
+2019-07-06 21:48:12,427 - INFO - 查找元素第10次 False ('xpath', "//*[contains(@text,'保存')]")  - test_add_note - line:32
+2019-07-06 21:48:12,528 - INFO - 查找元素第11次 False ('xpath', "//*[contains(@text,'保存')]")  - test_add_note - line:32
+2019-07-06 21:48:12,628 - INFO - 查找元素第12次 False ('xpath', "//*[contains(@text,'保存')]")  - test_add_note - line:32
+2019-07-06 21:48:12,729 - INFO - 查找元素第13次 False ('xpath', "//*[contains(@text,'保存')]")  - test_add_note - line:32
+2019-07-06 21:48:12,829 - INFO - 查找元素第14次 False ('xpath', "//*[contains(@text,'保存')]")  - test_add_note - line:32
+2019-07-06 21:48:12,931 - INFO - 查找元素第15次 False ('xpath', "//*[contains(@text,'保存')]")  - test_add_note - line:32
+2019-07-06 21:48:13,032 - INFO - 查找元素第16次 False ('xpath', "//*[contains(@text,'保存')]")  - test_add_note - line:32
+2019-07-06 21:48:13,134 - INFO - 查找元素第17次 False ('xpath', "//*[contains(@text,'保存')]")  - test_add_note - line:32
+2019-07-06 21:48:13,235 - INFO - 查找元素第18次 False ('xpath', "//*[contains(@text,'保存')]")  - test_add_note - line:32
+2019-07-06 21:48:13,336 - INFO - 查找元素第19次 False ('xpath', "//*[contains(@text,'保存')]")  - test_add_note - line:32
+2019-07-06 21:48:13,436 - INFO - 查找元素第20次 False ('xpath', "//*[contains(@text,'保存')]")  - test_add_note - line:32
+2019-07-06 21:48:13,538 - INFO - 查找元素第21次 False ('xpath', "//*[contains(@text,'保存')]")  - test_add_note - line:32
+2019-07-06 21:48:13,641 - INFO - 查找元素第22次 False ('xpath', "//*[contains(@text,'保存')]")  - test_add_note - line:32
+2019-07-06 21:48:13,742 - INFO - 查找元素第23次 False ('xpath', "//*[contains(@text,'保存')]")  - test_add_note - line:32
+2019-07-06 21:48:13,843 - INFO - 查找元素第24次 False ('xpath', "//*[contains(@text,'保存')]")  - test_add_note - line:32
+2019-07-06 21:48:13,945 - INFO - 查找元素第25次 False ('xpath', "//*[contains(@text,'保存')]")  - test_add_note - line:32
+2019-07-06 21:48:14,047 - INFO - 查找元素第26次 False ('xpath', "//*[contains(@text,'保存')]")  - test_add_note - line:32
+2019-07-06 21:48:14,150 - INFO - 查找元素第27次 False ('xpath', "//*[contains(@text,'保存')]")  - test_add_note - line:32
+2019-07-06 21:48:14,252 - INFO - 查找元素第28次 False ('xpath', "//*[contains(@text,'保存')]")  - test_add_note - line:32
+2019-07-06 21:48:14,353 - INFO - 查找元素第29次 False ('xpath', "//*[contains(@text,'保存')]")  - test_add_note - line:32
+2019-07-06 21:48:14,456 - INFO - 查找元素第30次 False ('xpath', "//*[contains(@text,'保存')]")  - test_add_note - line:32
+2019-07-06 21:48:14,558 - INFO - 查找元素第31次 False ('xpath', "//*[contains(@text,'保存')]")  - test_add_note - line:32
+2019-07-06 21:48:14,660 - INFO - 没有找到元素 ('xpath', "//*[contains(@text,'保存')]") - test_add_note - line:35
+2019-07-06 21:52:20,081 - INFO - 查找元素第1次 False ('partial link text', '保存')  - test_add_note - line:32
+2019-07-06 21:52:20,182 - INFO - 查找元素第2次 False ('partial link text', '保存')  - test_add_note - line:32
+2019-07-06 21:52:20,284 - INFO - 查找元素第3次 False ('partial link text', '保存')  - test_add_note - line:32
+2019-07-06 21:52:20,384 - INFO - 查找元素第4次 False ('partial link text', '保存')  - test_add_note - line:32
+2019-07-06 21:52:20,484 - INFO - 查找元素第5次 False ('partial link text', '保存')  - test_add_note - line:32
+2019-07-06 21:52:20,585 - INFO - 查找元素第6次 False ('partial link text', '保存')  - test_add_note - line:32
+2019-07-06 21:52:20,685 - INFO - 查找元素第7次 False ('partial link text', '保存')  - test_add_note - line:32
+2019-07-06 21:52:20,786 - INFO - 查找元素第8次 False ('partial link text', '保存')  - test_add_note - line:32
+2019-07-06 21:52:20,886 - INFO - 查找元素第9次 False ('partial link text', '保存')  - test_add_note - line:32
+2019-07-06 21:52:20,987 - INFO - 查找元素第10次 False ('partial link text', '保存')  - test_add_note - line:32
+2019-07-06 21:52:21,088 - INFO - 查找元素第11次 False ('partial link text', '保存')  - test_add_note - line:32
+2019-07-06 21:52:21,188 - INFO - 查找元素第12次 False ('partial link text', '保存')  - test_add_note - line:32
+2019-07-06 21:52:21,290 - INFO - 查找元素第13次 False ('partial link text', '保存')  - test_add_note - line:32
+2019-07-06 21:52:21,391 - INFO - 查找元素第14次 False ('partial link text', '保存')  - test_add_note - line:32
+2019-07-06 21:52:21,491 - INFO - 查找元素第15次 False ('partial link text', '保存')  - test_add_note - line:32
+2019-07-06 21:52:21,592 - INFO - 查找元素第16次 False ('partial link text', '保存')  - test_add_note - line:32
+2019-07-06 21:52:21,693 - INFO - 查找元素第17次 False ('partial link text', '保存')  - test_add_note - line:32
+2019-07-06 21:52:21,794 - INFO - 查找元素第18次 False ('partial link text', '保存')  - test_add_note - line:32
+2019-07-06 21:52:21,895 - INFO - 查找元素第19次 False ('partial link text', '保存')  - test_add_note - line:32
+2019-07-06 21:52:21,995 - INFO - 查找元素第20次 False ('partial link text', '保存')  - test_add_note - line:32
+2019-07-06 21:52:22,097 - INFO - 查找元素第21次 False ('partial link text', '保存')  - test_add_note - line:32
+2019-07-06 21:52:22,197 - INFO - 查找元素第22次 False ('partial link text', '保存')  - test_add_note - line:32
+2019-07-06 21:52:22,298 - INFO - 查找元素第23次 False ('partial link text', '保存')  - test_add_note - line:32
+2019-07-06 21:52:22,399 - INFO - 查找元素第24次 False ('partial link text', '保存')  - test_add_note - line:32
+2019-07-06 21:52:22,500 - INFO - 查找元素第25次 False ('partial link text', '保存')  - test_add_note - line:32
+2019-07-06 21:52:22,602 - INFO - 查找元素第26次 False ('partial link text', '保存')  - test_add_note - line:32
+2019-07-06 21:52:22,705 - INFO - 查找元素第27次 False ('partial link text', '保存')  - test_add_note - line:32
+2019-07-06 21:52:22,805 - INFO - 查找元素第28次 False ('partial link text', '保存')  - test_add_note - line:32
+2019-07-06 21:52:22,906 - INFO - 查找元素第29次 False ('partial link text', '保存')  - test_add_note - line:32
+2019-07-06 21:52:23,007 - INFO - 查找元素第30次 False ('partial link text', '保存')  - test_add_note - line:32
+2019-07-06 21:52:23,108 - INFO - 查找元素第31次 False ('partial link text', '保存')  - test_add_note - line:32
+2019-07-06 21:52:23,210 - INFO - 没有找到元素 ('partial link text', '保存') - test_add_note - line:35
+2019-07-06 22:10:05,485 - INFO - 查找元素第1次 False ('id', 'com.youdao.note:id/add_note')  - test_add_note - line:32
+2019-07-06 22:10:05,586 - INFO - 查找元素第2次 False ('id', 'com.youdao.note:id/add_note')  - test_add_note - line:32
+2019-07-06 22:10:05,687 - INFO - 查找元素第3次 False ('id', 'com.youdao.note:id/add_note')  - test_add_note - line:32
+2019-07-06 22:10:05,788 - INFO - 查找元素第4次 False ('id', 'com.youdao.note:id/add_note')  - test_add_note - line:32
+2019-07-06 22:10:05,889 - INFO - 查找元素第5次 False ('id', 'com.youdao.note:id/add_note')  - test_add_note - line:32
+2019-07-06 22:10:05,990 - INFO - 查找元素第6次 False ('id', 'com.youdao.note:id/add_note')  - test_add_note - line:32
+2019-07-06 22:10:06,091 - INFO - 查找元素第7次 False ('id', 'com.youdao.note:id/add_note')  - test_add_note - line:32
+2019-07-06 22:10:06,193 - INFO - 查找元素第8次 False ('id', 'com.youdao.note:id/add_note')  - test_add_note - line:32
+2019-07-06 22:10:06,294 - INFO - 查找元素第9次 False ('id', 'com.youdao.note:id/add_note')  - test_add_note - line:32
+2019-07-06 22:10:06,397 - INFO - 查找元素第10次 False ('id', 'com.youdao.note:id/add_note')  - test_add_note - line:32
+2019-07-06 22:10:06,499 - INFO - 查找元素第11次 False ('id', 'com.youdao.note:id/add_note')  - test_add_note - line:32
+2019-07-06 22:10:06,600 - INFO - 查找元素第12次 False ('id', 'com.youdao.note:id/add_note')  - test_add_note - line:32
+2019-07-06 22:10:06,703 - INFO - 查找元素第13次 False ('id', 'com.youdao.note:id/add_note')  - test_add_note - line:32
+2019-07-06 22:10:06,804 - INFO - 查找元素第14次 False ('id', 'com.youdao.note:id/add_note')  - test_add_note - line:32
+2019-07-06 22:10:06,905 - INFO - 查找元素第15次 False ('id', 'com.youdao.note:id/add_note')  - test_add_note - line:32
+2019-07-06 22:10:07,007 - INFO - 查找元素第16次 False ('id', 'com.youdao.note:id/add_note')  - test_add_note - line:32
+2019-07-06 22:10:07,108 - INFO - 查找元素第17次 False ('id', 'com.youdao.note:id/add_note')  - test_add_note - line:32
+2019-07-06 22:10:07,209 - INFO - 查找元素第18次 False ('id', 'com.youdao.note:id/add_note')  - test_add_note - line:32
+2019-07-06 22:10:07,310 - INFO - 查找元素第19次 False ('id', 'com.youdao.note:id/add_note')  - test_add_note - line:32
+2019-07-06 22:10:07,410 - INFO - 查找元素第20次 False ('id', 'com.youdao.note:id/add_note')  - test_add_note - line:32
+2019-07-06 22:10:07,511 - INFO - 查找元素第21次 False ('id', 'com.youdao.note:id/add_note')  - test_add_note - line:32
+2019-07-06 22:10:07,612 - INFO - 查找元素第22次 False ('id', 'com.youdao.note:id/add_note')  - test_add_note - line:32
+2019-07-06 22:10:07,713 - INFO - 查找元素第23次 False ('id', 'com.youdao.note:id/add_note')  - test_add_note - line:32
+2019-07-06 22:10:07,813 - INFO - 查找元素第24次 False ('id', 'com.youdao.note:id/add_note')  - test_add_note - line:32
+2019-07-06 22:10:07,915 - INFO - 查找元素第25次 False ('id', 'com.youdao.note:id/add_note')  - test_add_note - line:32
+2019-07-06 22:10:08,016 - INFO - 查找元素第26次 False ('id', 'com.youdao.note:id/add_note')  - test_add_note - line:32
+2019-07-06 22:10:08,117 - INFO - 查找元素第27次 False ('id', 'com.youdao.note:id/add_note')  - test_add_note - line:32
+2019-07-06 22:10:08,217 - INFO - 查找元素第28次 False ('id', 'com.youdao.note:id/add_note')  - test_add_note - line:32
+2019-07-06 22:10:08,318 - INFO - 查找元素第29次 False ('id', 'com.youdao.note:id/add_note')  - test_add_note - line:32
+2019-07-06 22:10:08,419 - INFO - 查找元素第30次 False ('id', 'com.youdao.note:id/add_note')  - test_add_note - line:32
+2019-07-06 22:10:08,519 - INFO - 查找元素第31次 False ('id', 'com.youdao.note:id/add_note')  - test_add_note - line:32
+2019-07-06 22:10:08,619 - INFO - 没有找到元素 ('id', 'com.youdao.note:id/add_note') - test_add_note - line:35
+2019-07-06 22:11:44,116 - INFO - 查找元素第1次 False ('id', 'com.youdao.note:id/add_note')  - test_add_note - line:32
+2019-07-06 22:11:44,218 - INFO - 查找元素第2次 False ('id', 'com.youdao.note:id/add_note')  - test_add_note - line:32
+2019-07-06 22:11:44,319 - INFO - 查找元素第3次 False ('id', 'com.youdao.note:id/add_note')  - test_add_note - line:32
+2019-07-06 22:11:44,420 - INFO - 查找元素第4次 False ('id', 'com.youdao.note:id/add_note')  - test_add_note - line:32
+2019-07-06 22:11:44,520 - INFO - 查找元素第5次 False ('id', 'com.youdao.note:id/add_note')  - test_add_note - line:32
+2019-07-06 22:11:44,621 - INFO - 查找元素第6次 False ('id', 'com.youdao.note:id/add_note')  - test_add_note - line:32
+2019-07-06 22:11:44,722 - INFO - 查找元素第7次 False ('id', 'com.youdao.note:id/add_note')  - test_add_note - line:32
+2019-07-06 22:11:44,822 - INFO - 查找元素第8次 False ('id', 'com.youdao.note:id/add_note')  - test_add_note - line:32
+2019-07-06 22:11:44,924 - INFO - 查找元素第9次 False ('id', 'com.youdao.note:id/add_note')  - test_add_note - line:32
+2019-07-06 22:11:45,025 - INFO - 查找元素第10次 False ('id', 'com.youdao.note:id/add_note')  - test_add_note - line:32
+2019-07-06 22:11:45,126 - INFO - 查找元素第11次 False ('id', 'com.youdao.note:id/add_note')  - test_add_note - line:32
+2019-07-06 22:11:45,226 - INFO - 查找元素第12次 False ('id', 'com.youdao.note:id/add_note')  - test_add_note - line:32
+2019-07-06 22:11:45,326 - INFO - 查找元素第13次 False ('id', 'com.youdao.note:id/add_note')  - test_add_note - line:32
+2019-07-06 22:11:45,427 - INFO - 查找元素第14次 False ('id', 'com.youdao.note:id/add_note')  - test_add_note - line:32
+2019-07-06 22:11:45,527 - INFO - 查找元素第15次 False ('id', 'com.youdao.note:id/add_note')  - test_add_note - line:32
+2019-07-06 22:11:45,627 - INFO - 查找元素第16次 False ('id', 'com.youdao.note:id/add_note')  - test_add_note - line:32
+2019-07-06 22:11:45,728 - INFO - 查找元素第17次 False ('id', 'com.youdao.note:id/add_note')  - test_add_note - line:32
+2019-07-06 22:11:45,828 - INFO - 查找元素第18次 False ('id', 'com.youdao.note:id/add_note')  - test_add_note - line:32
+2019-07-06 22:11:45,929 - INFO - 查找元素第19次 False ('id', 'com.youdao.note:id/add_note')  - test_add_note - line:32
+2019-07-06 22:11:46,029 - INFO - 查找元素第20次 False ('id', 'com.youdao.note:id/add_note')  - test_add_note - line:32
+2019-07-06 22:11:46,129 - INFO - 查找元素第21次 False ('id', 'com.youdao.note:id/add_note')  - test_add_note - line:32
+2019-07-06 22:11:46,231 - INFO - 查找元素第22次 False ('id', 'com.youdao.note:id/add_note')  - test_add_note - line:32
+2019-07-06 22:11:46,332 - INFO - 查找元素第23次 False ('id', 'com.youdao.note:id/add_note')  - test_add_note - line:32
+2019-07-06 22:11:46,433 - INFO - 查找元素第24次 False ('id', 'com.youdao.note:id/add_note')  - test_add_note - line:32
+2019-07-06 22:11:46,533 - INFO - 查找元素第25次 False ('id', 'com.youdao.note:id/add_note')  - test_add_note - line:32
+2019-07-06 22:11:46,634 - INFO - 查找元素第26次 False ('id', 'com.youdao.note:id/add_note')  - test_add_note - line:32
+2019-07-06 22:11:46,736 - INFO - 查找元素第27次 False ('id', 'com.youdao.note:id/add_note')  - test_add_note - line:32
+2019-07-06 22:11:46,836 - INFO - 查找元素第28次 False ('id', 'com.youdao.note:id/add_note')  - test_add_note - line:32
+2019-07-06 22:11:46,936 - INFO - 查找元素第29次 False ('id', 'com.youdao.note:id/add_note')  - test_add_note - line:32
+2019-07-06 22:11:47,037 - INFO - 查找元素第30次 False ('id', 'com.youdao.note:id/add_note')  - test_add_note - line:32
+2019-07-06 22:11:47,137 - INFO - 查找元素第31次 False ('id', 'com.youdao.note:id/add_note')  - test_add_note - line:32
+2019-07-06 22:11:47,238 - INFO - 没有找到元素 ('id', 'com.youdao.note:id/add_note') - test_add_note - line:35
+2019-07-06 22:29:31,446 - INFO - 查找元素第1次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:31,582 - INFO - 查找元素第2次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:31,725 - INFO - 查找元素第3次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:31,857 - INFO - 查找元素第4次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:31,984 - INFO - 查找元素第5次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:32,109 - INFO - 查找元素第6次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:32,237 - INFO - 查找元素第7次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:32,359 - INFO - 查找元素第8次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:32,483 - INFO - 查找元素第9次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:32,606 - INFO - 查找元素第10次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:32,733 - INFO - 查找元素第11次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:32,861 - INFO - 查找元素第12次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:32,984 - INFO - 查找元素第13次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:33,107 - INFO - 查找元素第14次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:33,236 - INFO - 查找元素第15次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:33,358 - INFO - 查找元素第16次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:33,484 - INFO - 查找元素第17次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:33,614 - INFO - 查找元素第18次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:33,744 - INFO - 查找元素第19次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:33,873 - INFO - 查找元素第20次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:34,003 - INFO - 查找元素第21次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:34,131 - INFO - 查找元素第22次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:34,255 - INFO - 查找元素第23次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:34,388 - INFO - 查找元素第24次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:34,522 - INFO - 查找元素第25次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:34,653 - INFO - 查找元素第26次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:34,796 - INFO - 查找元素第27次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:34,926 - INFO - 查找元素第28次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:35,063 - INFO - 查找元素第29次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:35,184 - INFO - 查找元素第30次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:35,317 - INFO - 查找元素第31次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:35,449 - INFO - 查找元素第32次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:35,590 - INFO - 查找元素第33次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:35,716 - INFO - 查找元素第34次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:35,851 - INFO - 查找元素第35次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:35,979 - INFO - 查找元素第36次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:36,108 - INFO - 查找元素第37次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:36,240 - INFO - 查找元素第38次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:36,369 - INFO - 查找元素第39次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:36,502 - INFO - 查找元素第40次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:36,625 - INFO - 查找元素第41次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:36,767 - INFO - 查找元素第42次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:36,902 - INFO - 查找元素第43次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:37,050 - INFO - 查找元素第44次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:37,205 - INFO - 查找元素第45次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:37,345 - INFO - 查找元素第46次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:37,502 - INFO - 查找元素第47次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:37,630 - INFO - 查找元素第48次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:37,760 - INFO - 查找元素第49次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:37,897 - INFO - 查找元素第50次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:38,028 - INFO - 查找元素第51次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:38,170 - INFO - 查找元素第52次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:38,301 - INFO - 查找元素第53次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:38,423 - INFO - 查找元素第54次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:38,548 - INFO - 查找元素第55次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:38,678 - INFO - 查找元素第56次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:38,807 - INFO - 查找元素第57次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:38,931 - INFO - 查找元素第58次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:39,066 - INFO - 查找元素第59次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:39,197 - INFO - 查找元素第60次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:39,328 - INFO - 查找元素第61次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:39,460 - INFO - 查找元素第62次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:39,589 - INFO - 查找元素第63次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:39,718 - INFO - 查找元素第64次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:39,848 - INFO - 查找元素第65次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:39,972 - INFO - 查找元素第66次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:40,098 - INFO - 查找元素第67次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:40,221 - INFO - 查找元素第68次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:40,347 - INFO - 查找元素第69次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:40,470 - INFO - 查找元素第70次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:40,597 - INFO - 查找元素第71次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:40,722 - INFO - 查找元素第72次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:40,848 - INFO - 查找元素第73次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:40,971 - INFO - 查找元素第74次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:41,098 - INFO - 查找元素第75次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:41,221 - INFO - 查找元素第76次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:41,346 - INFO - 查找元素第77次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:41,469 - INFO - 查找元素第78次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:41,601 - INFO - 查找元素第79次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:41,732 - INFO - 查找元素第80次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:41,866 - INFO - 查找元素第81次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:41,999 - INFO - 查找元素第82次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:42,136 - INFO - 查找元素第83次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:42,266 - INFO - 查找元素第84次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:42,397 - INFO - 查找元素第85次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:42,527 - INFO - 查找元素第86次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:42,653 - INFO - 查找元素第87次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:42,795 - INFO - 查找元素第88次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:42,925 - INFO - 查找元素第89次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:43,047 - INFO - 查找元素第90次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:43,187 - INFO - 查找元素第91次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:43,315 - INFO - 查找元素第92次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:43,442 - INFO - 查找元素第93次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:43,579 - INFO - 查找元素第94次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:43,731 - INFO - 查找元素第95次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:43,861 - INFO - 查找元素第96次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:43,988 - INFO - 查找元素第97次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:44,113 - INFO - 查找元素第98次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:44,241 - INFO - 查找元素第99次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:44,367 - INFO - 查找元素第100次 False ()  - PageBaseApk - line:37
+2019-07-06 22:29:44,469 - INFO - 没有找到元素 () - PageBaseApk - line:40
+2019-07-06 22:29:44,547 - INFO - 查找元素第1次 True ('id', 'com.youdao.note:id/add_note')  - PageBaseApk - line:37

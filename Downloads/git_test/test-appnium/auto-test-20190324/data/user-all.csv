@@ -1,0 +1,7 @@
+﻿name,password,flag,expect
+admin,1234567,0,指定的密码不正确
+,1233,0,用户名一栏为空
+111,,0,密码一栏为空
+admin,123456,1,admin
+admin1,123456,1,admin1
+admin2,123456,1,admin2
